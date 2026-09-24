@@ -1,4 +1,14 @@
+# Virtual Environment (البيئة الافتراضية)
 Lib/
 Scripts/
-etc/
 share/
+pyvenv.cfg
+
+# Python Cache (الملفات المؤقتة)
+__pycache__/
+*.pyc
+
+# Uploads & Cache
+uploads/
+CACHEDIR.TAG
+
